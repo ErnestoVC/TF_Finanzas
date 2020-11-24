@@ -1,0 +1,11 @@
+Tasa Simple
+S=C*(1+i*t)
+t=días/360
+Tasa Nominal Anual
+S=C*(1+(TNA/m))^n
+Capitalización Mensual
+m=12
+n=tiempo
+Tasa Efectiva Anual
+S=C*(1+TEA)^(n días/360)
+

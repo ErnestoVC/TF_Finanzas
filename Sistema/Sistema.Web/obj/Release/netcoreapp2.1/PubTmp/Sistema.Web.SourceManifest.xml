@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Web\obj\Release\netcoreapp2.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Web\obj\Release\netcoreapp2.1\PubTmp\EFSQLScripts\Sistema.Datos.DbContextSistema.sql" />
+</sitemanifest>

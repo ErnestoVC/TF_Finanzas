@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAj2F8pH/+a0Waj7yerC6oKAAAAAACAAAAAAAQZgAAAAEAACAAAAC0gdfoVT6TSqnQSYOaVCJM5cUHTsRIOCbQZoX9CohkmgAAAAAOgAAAAAIAACAAAAAGnQcPrgWPNJVh6Lb1j4q3/eWVaZRXKGST0q9ECW94eoAAAABfxgaEvDjsOJO/2ax7J/vd4ap/OjPeXiSRQFVg4Ww2FMCNGFRLcqrw21ROmzcfrpu4aq3VveDLCJLyRh3eIrJv7c/q9G7/x6sm9THz+9Qg9O/2orIWx8Bz0Y+HRZTxt+e7y7X80rBryhCvNvm5qudcdWMo8VHfLwxkvoHAZnciqUAAAADa3SZ+4Km3vDnOAMury3cLA+g09jyaCuV+vkdLDYPEfb0cHD1VWdrcfrxdwUw9NSexj9oaMS0mcL2dkJSecoR+</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Conexion">
+      <Value>Data Source=tcp:sistemawebdbserver.database.windows.net,1433%3bInitial Catalog=Sistema.Web_db%3bUser Id=ernesto%40sistemawebdbserver%3bPassword=leessang2019%40</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Sistema.Datos.DbContextSistema">
+      <Value>Data Source=tcp:sistemawebdbserver.database.windows.net,1433%3bInitial Catalog=Sistema.Web_db%3bUser Id=ernesto%40sistemawebdbserver%3bPassword=leessang2019%40</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

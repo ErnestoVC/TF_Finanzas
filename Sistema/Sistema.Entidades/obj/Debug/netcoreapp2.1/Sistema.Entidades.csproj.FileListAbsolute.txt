@@ -1,0 +1,36 @@
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Ernesto\Desktop\04 Arquitectura del Proyecto Final\18 Despliegue del Proyecto en Internet Information Services IIS\105 Sistema\Sistema Web\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\Ernesto\Desktop\04 Arquitectura del Proyecto Final\18 Despliegue del Proyecto en Internet Information Services IIS\105 Sistema\Sistema Web\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Ernesto\Desktop\04 Arquitectura del Proyecto Final\18 Despliegue del Proyecto en Internet Information Services IIS\105 Sistema\Sistema Web\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Ernesto\Desktop\04 Arquitectura del Proyecto Final\18 Despliegue del Proyecto en Internet Information Services IIS\105 Sistema\Sistema Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\Ernesto\Desktop\04 Arquitectura del Proyecto Final\18 Despliegue del Proyecto en Internet Information Services IIS\105 Sistema\Sistema Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\04 Arquitectura del Proyecto Final\18 Despliegue del Proyecto en Internet Information Services IIS\105 Sistema\Sistema Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\04 Arquitectura del Proyecto Final\18 Despliegue del Proyecto en Internet Information Services IIS\105 Sistema\Sistema Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\04 Arquitectura del Proyecto Final\18 Despliegue del Proyecto en Internet Information Services IIS\105 Sistema\Sistema Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Ernesto\Desktop\04 Arquitectura del Proyecto Final\18 Despliegue del Proyecto en Internet Information Services IIS\105 Sistema\Sistema Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\netit\Desktop\TF_Finanzas\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\netit\Desktop\TF_Finanzas\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\netit\Desktop\TF_Finanzas\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\netit\Desktop\TF_Finanzas\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\netit\Desktop\TF_Finanzas\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\netit\Desktop\TF_Finanzas\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\netit\Desktop\TF_Finanzas\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\netit\Desktop\TF_Finanzas\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\netit\Desktop\TF_Finanzas\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache

@@ -1,0 +1,29 @@
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.deps.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Entidades.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.deps.json
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\netit\Desktop\Sistema\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.genruntimeconfig.cache
